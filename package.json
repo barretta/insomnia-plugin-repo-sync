@@ -1,7 +1,7 @@
 {
-  "name": "@klicksite/insomnia-plugin-repo-sync",
+  "name": "insomnia-plugin-repo-auto-sync",
   "version": "0.1.0",
-  "author": "Klickpages <accounts@klickpages.com.br>",
+  "author": "Klickpages <accounts@klickpages.com.br>, rbarretta@gmail.com",
   "description": "Repo Sync Plugin for Insomnia",
   "license": "MIT",
   "repository": {
@@ -19,7 +19,7 @@
   "main": "src/index.js",
   "insomnia": {
     "name": "repo-sync",
-    "displayName": "Repo Sync Plugin",
+    "displayName": "Auto Git repository Sync",
     "description": "This plugin allows users to sync workspaces in a configured repository.",
     "images": {
       "icon": "icon.svg"
