@@ -28,7 +28,9 @@
       "core": "*"
     }
   },
-  "dependencies": {},
+  "dependencies": {
+    "simple-git": "^2.31.0"
+  },
   "homepage": "https://github.com/klickpages/insomnia-plugin-repo-sync#readme",
   "devDependencies": {}
 }
